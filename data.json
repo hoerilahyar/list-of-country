@@ -1,0 +1,1562 @@
+{
+  "afghanistan": {
+    "country_name": "Afghanistan",
+    "language": "Pashto, Dari",
+    "locale": "fa_AF",
+    "timezone": "Asia/Kabul",
+    "code": "AF",
+    "currency": "AFN"
+  },
+  "albania": {
+    "country_name": "Albania",
+    "language": "Albanian",
+    "locale": "sq_AL",
+    "timezone": "Europe/Tirana",
+    "code": "AL",
+    "currency": "ALL"
+  },
+  "algeria": {
+    "country_name": "Algeria",
+    "language": "Arabic, Berber",
+    "locale": "ar_DZ",
+    "timezone": "Africa/Algiers",
+    "code": "DZ",
+    "currency": "DZD"
+  },
+  "andorra": {
+    "country_name": "Andorra",
+    "language": "Catalan",
+    "locale": "ca_AD",
+    "timezone": "Europe/Andorra",
+    "code": "AD",
+    "currency": "EUR"
+  },
+  "angola": {
+    "country_name": "Angola",
+    "language": "Portuguese",
+    "locale": "pt_AO",
+    "timezone": "Africa/Luanda",
+    "code": "AO",
+    "currency": "AOA"
+  },
+  "antigua_and_barbuda": {
+    "country_name": "Antigua and Barbuda",
+    "language": "English",
+    "locale": "en_AG",
+    "timezone": "America/Antigua",
+    "code": "AG",
+    "currency": "XCD"
+  },
+  "argentina": {
+    "country_name": "Argentina",
+    "language": "Spanish",
+    "locale": "es_AR",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "code": "AR",
+    "currency": "ARS"
+  },
+  "armenia": {
+    "country_name": "Armenia",
+    "language": "Armenian",
+    "locale": "hy_AM",
+    "timezone": "Asia/Yerevan",
+    "code": "AM",
+    "currency": "AMD"
+  },
+  "australia": {
+    "country_name": "Australia",
+    "language": "English",
+    "locale": "en_AU",
+    "timezone": "Australia/Sydney",
+    "code": "AU",
+    "currency": "AUD"
+  },
+  "austria": {
+    "country_name": "Austria",
+    "language": "German",
+    "locale": "de_AT",
+    "timezone": "Europe/Vienna",
+    "code": "AT",
+    "currency": "EUR"
+  },
+  "azerbaijan": {
+    "country_name": "Azerbaijan",
+    "language": "Azerbaijani",
+    "locale": "az_AZ",
+    "timezone": "Asia/Baku",
+    "code": "AZ",
+    "currency": "AZN"
+  },
+  "bahamas": {
+    "country_name": "Bahamas",
+    "language": "English",
+    "locale": "en_BS",
+    "timezone": "America/Nassau",
+    "code": "BS",
+    "currency": "BSD"
+  },
+  "bahrain": {
+    "country_name": "Bahrain",
+    "language": "Arabic",
+    "locale": "ar_BH",
+    "timezone": "Asia/Bahrain",
+    "code": "BH",
+    "currency": "BHD"
+  },
+  "bangladesh": {
+    "country_name": "Bangladesh",
+    "language": "Bengali",
+    "locale": "bn_BD",
+    "timezone": "Asia/Dhaka",
+    "code": "BD",
+    "currency": "BDT"
+  },
+  "barbados": {
+    "country_name": "Barbados",
+    "language": "English",
+    "locale": "en_BB",
+    "timezone": "America/Barbados",
+    "code": "BB",
+    "currency": "BBD"
+  },
+  "belarus": {
+    "country_name": "Belarus",
+    "language": "Belarusian, Russian",
+    "locale": "be_BY",
+    "timezone": "Europe/Minsk",
+    "code": "BY",
+    "currency": "BYN"
+  },
+  "belgium": {
+    "country_name": "Belgium",
+    "language": "Dutch, French, German",
+    "locale": "nl_BE",
+    "timezone": "Europe/Brussels",
+    "code": "BE",
+    "currency": "EUR"
+  },
+  "belize": {
+    "country_name": "Belize",
+    "language": "English",
+    "locale": "en_BZ",
+    "timezone": "America/Belize",
+    "code": "BZ",
+    "currency": "BZD"
+  },
+  "benin": {
+    "country_name": "Benin",
+    "language": "French",
+    "locale": "fr_BJ",
+    "timezone": "Africa/Porto-Novo",
+    "code": "BJ",
+    "currency": "XOF"
+  },
+  "bhutan": {
+    "country_name": "Bhutan",
+    "language": "Dzongkha",
+    "locale": "dz_BT",
+    "timezone": "Asia/Thimphu",
+    "code": "BT",
+    "currency": "BTN"
+  },
+  "bolivia": {
+    "country_name": "Bolivia",
+    "language": "Spanish, Aymara, Quechua",
+    "locale": "es_BO",
+    "timezone": "America/La_Paz",
+    "code": "BO",
+    "currency": "BOB"
+  },
+  "bosnia_and_herzegovina": {
+    "country_name": "Bosnia and Herzegovina",
+    "language": "Bosnian, Croatian, Serbian",
+    "locale": "bs_BA",
+    "timezone": "Europe/Sarajevo",
+    "code": "BA",
+    "currency": "BAM"
+  },
+  "botswana": {
+    "country_name": "Botswana",
+    "language": "English, Tswana",
+    "locale": "en_BW",
+    "timezone": "Africa/Gaborone",
+    "code": "BW",
+    "currency": "BWP"
+  },
+  "brazil": {
+    "country_name": "Brazil",
+    "language": "Portuguese",
+    "locale": "pt_BR",
+    "timezone": "America/Sao_Paulo",
+    "code": "BR",
+    "currency": "BRL"
+  },
+  "brunei": {
+    "country_name": "Brunei",
+    "language": "Malay",
+    "locale": "ms_BN",
+    "timezone": "Asia/Brunei",
+    "code": "BN",
+    "currency": "BND"
+  },
+  "bulgaria": {
+    "country_name": "Bulgaria",
+    "language": "Bulgarian",
+    "locale": "bg_BG",
+    "timezone": "Europe/Sofia",
+    "code": "BG",
+    "currency": "BGN"
+  },
+  "burkina_faso": {
+    "country_name": "Burkina Faso",
+    "language": "French",
+    "locale": "fr_BF",
+    "timezone": "Africa/Ouagadougou",
+    "code": "BF",
+    "currency": "XOF"
+  },
+  "burundi": {
+    "country_name": "Burundi",
+    "language": "Kirundi, French",
+    "locale": "rn_BI",
+    "timezone": "Africa/Bujumbura",
+    "code": "BI",
+    "currency": "BIF"
+  },
+  "cabo_verde": {
+    "country_name": "Cabo Verde",
+    "language": "Portuguese",
+    "locale": "pt_CV",
+    "timezone": "Atlantic/Cape_Verde",
+    "code": "CV",
+    "currency": "CVE"
+  },
+  "cambodia": {
+    "country_name": "Cambodia",
+    "language": "Khmer",
+    "locale": "km_KH",
+    "timezone": "Asia/Phnom_Penh",
+    "code": "KH",
+    "currency": "KHR"
+  },
+  "cameroon": {
+    "country_name": "Cameroon",
+    "language": "French, English",
+    "locale": "fr_CM",
+    "timezone": "Africa/Douala",
+    "code": "CM",
+    "currency": "XAF"
+  },
+  "canada": {
+    "country_name": "Canada",
+    "language": "English, French",
+    "locale": "en_CA",
+    "timezone": "America/Toronto",
+    "code": "CA",
+    "currency": "CAD"
+  },
+  "central_african_republic": {
+    "country_name": "Central African Republic",
+    "language": "French, Sango",
+    "locale": "fr_CF",
+    "timezone": "Africa/Bangui",
+    "code": "CF",
+    "currency": "XAF"
+  },
+  "chad": {
+    "country_name": "Chad",
+    "language": "French, Arabic",
+    "locale": "fr_TD",
+    "timezone": "Africa/N'Djamena",
+    "code": "TD",
+    "currency": "XAF"
+  },
+  "chile": {
+    "country_name": "Chile",
+    "language": "Spanish",
+    "locale": "es_CL",
+    "timezone": "America/Santiago",
+    "code": "CL",
+    "currency": "CLP"
+  },
+  "china": {
+    "country_name": "China",
+    "language": "Mandarin",
+    "locale": "zh_CN",
+    "timezone": "Asia/Shanghai",
+    "code": "CN",
+    "currency": "CNY"
+  },
+  "colombia": {
+    "country_name": "Colombia",
+    "language": "Spanish",
+    "locale": "es_CO",
+    "timezone": "America/Bogota",
+    "code": "CO",
+    "currency": "COP"
+  },
+  "comoros": {
+    "country_name": "Comoros",
+    "language": "Comorian, French, Arabic",
+    "locale": "km_KM",
+    "timezone": "Indian/Comoro",
+    "code": "KM",
+    "currency": "KMF"
+  },
+  "congo_brazzaville": {
+    "country_name": "Congo (Brazzaville)",
+    "language": "French, Lingala",
+    "locale": "fr_CG",
+    "timezone": "Africa/Brazzaville",
+    "code": "CG",
+    "currency": "XAF"
+  },
+  "congo_kinshasa": {
+    "country_name": "Congo (Kinshasa)",
+    "language": "French, Lingala, Kikongo, Swahili, Tshiluba",
+    "locale": "fr_CD",
+    "timezone": "Africa/Kinshasa",
+    "code": "CD",
+    "currency": "CDF"
+  },
+  "costa_rica": {
+    "country_name": "Costa Rica",
+    "language": "Spanish",
+    "locale": "es_CR",
+    "timezone": "America/Costa_Rica",
+    "code": "CR",
+    "currency": "CRC"
+  },
+  "croatia": {
+    "country_name": "Croatia",
+    "language": "Croatian",
+    "locale": "hr_HR",
+    "timezone": "Europe/Zagreb",
+    "code": "HR",
+    "currency": "HRK"
+  },
+  "cuba": {
+    "country_name": "Cuba",
+    "language": "Spanish",
+    "locale": "es_CU",
+    "timezone": "America/Havana",
+    "code": "CU",
+    "currency": "CUP"
+  },
+  "cyprus": {
+    "country_name": "Cyprus",
+    "language": "Greek, Turkish",
+    "locale": "el_CY",
+    "timezone": "Asia/Nicosia",
+    "code": "CY",
+    "currency": "EUR"
+  },
+  "czech_republic": {
+    "country_name": "Czech Republic",
+    "language": "Czech",
+    "locale": "cs_CZ",
+    "timezone": "Europe/Prague",
+    "code": "CZ",
+    "currency": "CZK"
+  },
+  "democratic_republic_of_the_congo": {
+    "country_name": "Democratic Republic of the Congo",
+    "language": "French, Lingala, Swahili, Kikongo, Tshiluba",
+    "locale": "fr_CD",
+    "timezone": "Africa/Kinshasa",
+    "code": "CD",
+    "currency": "CDF"
+  },
+  "denmark": {
+    "country_name": "Denmark",
+    "language": "Danish",
+    "locale": "da_DK",
+    "timezone": "Europe/Copenhagen",
+    "code": "DK",
+    "currency": "DKK"
+  },
+  "djibouti": {
+    "country_name": "Djibouti",
+    "language": "French, Arabic",
+    "locale": "fr_DJ",
+    "timezone": "Africa/Djibouti",
+    "code": "DJ",
+    "currency": "DJF"
+  },
+  "dominica": {
+    "country_name": "Dominica",
+    "language": "English",
+    "locale": "en_DM",
+    "timezone": "America/Dominica",
+    "code": "DM",
+    "currency": "XCD"
+  },
+  "dominican_republic": {
+    "country_name": "Dominican Republic",
+    "language": "Spanish",
+    "locale": "es_DO",
+    "timezone": "America/Santo_Domingo",
+    "code": "DO",
+    "currency": "DOP"
+  },
+  "east_timor": {
+    "country_name": "East Timor",
+    "language": "Tetum, Portuguese",
+    "locale": "pt-TL, tet-TL",
+    "timezone": "Asia/Dili",
+    "code": "TL",
+    "currency": "USD"
+  },
+  "ecuador": {
+    "country_name": "Ecuador",
+    "language": "Spanish",
+    "locale": "es_EC",
+    "timezone": "America/Guayaquil",
+    "code": "EC",
+    "currency": "USD"
+  },
+  "egypt": {
+    "country_name": "Egypt",
+    "language": "Arabic",
+    "locale": "ar_EG",
+    "timezone": "Africa/Cairo",
+    "code": "EG",
+    "currency": "EGP"
+  },
+  "el_salvador": {
+    "country_name": "El Salvador",
+    "language": "Spanish",
+    "locale": "es_SV",
+    "timezone": "America/El_Salvador",
+    "code": "SV",
+    "currency": "USD"
+  },
+  "equatorial_guinea": {
+    "country_name": "Equatorial Guinea",
+    "language": "Spanish, French, Portuguese",
+    "locale": "es_GQ",
+    "timezone": "Africa/Malabo",
+    "code": "GQ",
+    "currency": "XAF"
+  },
+  "eritrea": {
+    "country_name": "Eritrea",
+    "language": "Tigrinya, Arabic, English",
+    "locale": "ti_ER",
+    "timezone": "Africa/Asmara",
+    "code": "ER",
+    "currency": "ERN"
+  },
+  "estonia": {
+    "country_name": "Estonia",
+    "language": "Estonian",
+    "locale": "et_EE",
+    "timezone": "Europe/Tallinn",
+    "code": "EE",
+    "currency": "EUR"
+  },
+  "eswatini": {
+    "country_name": "Eswatini",
+    "language": "English, siSwati",
+    "locale": "en_SZ",
+    "timezone": "Africa/Mbabane",
+    "code": "SZ",
+    "currency": "SZL"
+  },
+  "ethiopia": {
+    "country_name": "Ethiopia",
+    "language": "Amharic",
+    "locale": "am_ET",
+    "timezone": "Africa/Addis_Ababa",
+    "code": "ET",
+    "currency": "ETB"
+  },
+  "fiji": {
+    "country_name": "Fiji",
+    "language": "Fijian, Hindi, English",
+    "locale": "en_FJ",
+    "timezone": "Pacific/Fiji",
+    "code": "FJ",
+    "currency": "FJD"
+  },
+  "finland": {
+    "country_name": "Finland",
+    "language": "Finnish, Swedish",
+    "locale": "fi_FI",
+    "timezone": "Europe/Helsinki",
+    "code": "FI",
+    "currency": "EUR"
+  },
+  "france": {
+    "country_name": "France",
+    "language": "French",
+    "locale": "fr_FR",
+    "timezone": "Europe/Paris",
+    "code": "FR",
+    "currency": "EUR"
+  },
+  "gabon": {
+    "country_name": "Gabon",
+    "language": "French",
+    "locale": "fr_GA",
+    "timezone": "Africa/Libreville",
+    "code": "GA",
+    "currency": "XAF"
+  },
+  "gambia": {
+    "country_name": "Gambia",
+    "language": "English",
+    "locale": "en_GM",
+    "timezone": "Africa/Banjul",
+    "code": "GM",
+    "currency": "GMD"
+  },
+  "georgia": {
+    "country_name": "Georgia",
+    "language": "Georgian",
+    "locale": "ka_GE",
+    "timezone": "Asia/Tbilisi",
+    "code": "GE",
+    "currency": "GEL"
+  },
+  "germany": {
+    "country_name": "Germany",
+    "language": "German",
+    "locale": "de_DE",
+    "timezone": "Europe/Berlin",
+    "code": "DE",
+    "currency": "EUR"
+  },
+  "ghana": {
+    "country_name": "Ghana",
+    "language": "English",
+    "locale": "en_GH",
+    "timezone": "Africa/Accra",
+    "code": "GH",
+    "currency": "GHS"
+  },
+  "greece": {
+    "country_name": "Greece",
+    "language": "Greek",
+    "locale": "el_GR",
+    "timezone": "Europe/Athens",
+    "code": "GR",
+    "currency": "EUR"
+  },
+  "grenada": {
+    "country_name": "Grenada",
+    "language": "English",
+    "locale": "en_GD",
+    "timezone": "America/Grenada",
+    "code": "GD",
+    "currency": "XCD"
+  },
+  "guatemala": {
+    "country_name": "Guatemala",
+    "language": "Spanish",
+    "locale": "es_GT",
+    "timezone": "America/Guatemala",
+    "code": "GT",
+    "currency": "GTQ"
+  },
+  "guinea": {
+    "country_name": "Guinea",
+    "language": "French, Susu, Maninka, Kissi",
+    "locale": "fr_GN",
+    "timezone": "Africa/Conakry",
+    "code": "GN",
+    "currency": "GNF"
+  },
+  "guinea_bissau": {
+    "country_name": "Guinea-Bissau",
+    "language": "Portuguese, Crioulo",
+    "locale": "pt_GW",
+    "timezone": "Africa/Bissau",
+    "code": "GW",
+    "currency": "XOF"
+  },
+  "haiti": {
+    "country_name": "Haiti",
+    "language": "Haitian Creole, French",
+    "locale": "ht_HT",
+    "timezone": "America/Port-au-Prince",
+    "code": "HT",
+    "currency": "HTG"
+  },
+  "honduras": {
+    "country_name": "Honduras",
+    "language": "Spanish",
+    "locale": "es_HN",
+    "timezone": "America/Tegucigalpa",
+    "code": "HN",
+    "currency": "HNL"
+  },
+  "hungary": {
+    "country_name": "Hungary",
+    "language": "Hungarian",
+    "locale": "hu_HU",
+    "timezone": "Europe/Budapest",
+    "code": "HU",
+    "currency": "HUF"
+  },
+  "iceland": {
+    "country_name": "Iceland",
+    "language": "Icelandic",
+    "locale": "is_IS",
+    "timezone": "Atlantic/Reykjavik",
+    "code": "IS",
+    "currency": "ISK"
+  },
+  "india": {
+    "country_name": "India",
+    "language": "Hindi, English",
+    "locale": "hi_IN",
+    "timezone": "Asia/Kolkata",
+    "code": "IN",
+    "currency": "INR"
+  },
+  "indonesia": {
+    "country_name": "Indonesia",
+    "language": "Indonesian",
+    "locale": "id_ID",
+    "timezone": "Asia/Jakarta",
+    "code": "ID",
+    "currency": "IDR"
+  },
+  "iran": {
+    "country_name": "Iran",
+    "language": "Persian",
+    "locale": "fa_IR",
+    "timezone": "Asia/Tehran",
+    "code": "IR",
+    "currency": "IRR"
+  },
+  "iraq": {
+    "country_name": "Iraq",
+    "language": "Arabic, Kurdish",
+    "locale": "ar_IQ",
+    "timezone": "Asia/Baghdad",
+    "code": "IQ",
+    "currency": "IQD"
+  },
+  "ireland": {
+    "country_name": "Ireland",
+    "language": "Irish, English",
+    "locale": "ga_IE",
+    "timezone": "Europe/Dublin",
+    "code": "IE",
+    "currency": "EUR"
+  },
+  "israel": {
+    "country_name": "Israel",
+    "language": "Hebrew, Arabic",
+    "locale": "he_IL",
+    "timezone": "Asia/Jerusalem",
+    "code": "IL",
+    "currency": "ILS"
+  },
+  "italy": {
+    "country_name": "Italy",
+    "language": "Italian",
+    "locale": "it_IT",
+    "timezone": "Europe/Rome",
+    "code": "IT",
+    "currency": "EUR"
+  },
+  "jamaica": {
+    "country_name": "Jamaica",
+    "language": "English",
+    "locale": "en_JM",
+    "timezone": "America/Jamaica",
+    "code": "JM",
+    "currency": "JMD"
+  },
+  "japan": {
+    "country_name": "Japan",
+    "language": "Japanese",
+    "locale": "ja_JP",
+    "timezone": "Asia/Tokyo",
+    "code": "JP",
+    "currency": "JPY"
+  },
+  "jordan": {
+    "country_name": "Jordan",
+    "language": "Arabic",
+    "locale": "ar_JO",
+    "timezone": "Asia/Amman",
+    "code": "JO",
+    "currency": "JOD"
+  },
+  "kazakhstan": {
+    "country_name": "Kazakhstan",
+    "language": "Kazakh, Russian",
+    "locale": "kk_KZ",
+    "timezone": "Asia/Almaty",
+    "code": "KZ",
+    "currency": "KZT"
+  },
+  "kenya": {
+    "country_name": "Kenya",
+    "language": "Swahili, English",
+    "locale": "sw_KE",
+    "timezone": "Africa/Nairobi",
+    "code": "KE",
+    "currency": "KES"
+  },
+  "kiribati": {
+    "country_name": "Kiribati",
+    "language": "English, Gilbertese",
+    "locale": "en_KI",
+    "timezone": "Pacific/Tarawa",
+    "code": "KI",
+    "currency": "AUD"
+  },
+  "korea_north": {
+    "country_name": "North Korea",
+    "language": "Korean",
+    "locale": "ko_KP",
+    "timezone": "Asia/Pyongyang",
+    "code": "KP",
+    "currency": "KPW"
+  },
+  "korea_south": {
+    "country_name": "South Korea",
+    "language": "Korean",
+    "locale": "ko_KR",
+    "timezone": "Asia/Seoul",
+    "code": "KR",
+    "currency": "KRW"
+  },
+  "Kosovo": {
+    "country_name": "Kosovo",
+    "language": "Albanian, Serbian",
+    "locale": "sq-XK",
+    "timezone": "Europe/Belgrade",
+    "code": "XK",
+    "currency": "EUR"
+  },
+  "kuwait": {
+    "country_name": "Kuwait",
+    "language": "Arabic",
+    "locale": "ar_KW",
+    "timezone": "Asia/Kuwait",
+    "code": "KW",
+    "currency": "KWD"
+  },
+  "kyrgyzstan": {
+    "country_name": "Kyrgyzstan",
+    "language": "Kyrgyz, Russian",
+    "locale": "ky_KG",
+    "timezone": "Asia/Bishkek",
+    "code": "KG",
+    "currency": "KGS"
+  },
+  "laos": {
+    "country_name": "Laos",
+    "language": "Lao",
+    "locale": "lo_LA",
+    "timezone": "Asia/Vientiane",
+    "code": "LA",
+    "currency": "LAK"
+  },
+  "latvia": {
+    "country_name": "Latvia",
+    "language": "Latvian",
+    "locale": "lv_LV",
+    "timezone": "Europe/Riga",
+    "code": "LV",
+    "currency": "EUR"
+  },
+  "lebanon": {
+    "country_name": "Lebanon",
+    "language": "Arabic, Armenian, French",
+    "locale": "ar_LB",
+    "timezone": "Asia/Beirut",
+    "code": "LB",
+    "currency": "LBP"
+  },
+  "lesotho": {
+    "country_name": "Lesotho",
+    "language": "Sesotho, English",
+    "locale": "st_LS",
+    "timezone": "Africa/Maseru",
+    "code": "LS",
+    "currency": "LSL"
+  },
+  "liberia": {
+    "country_name": "Liberia",
+    "language": "English",
+    "locale": "en_LR",
+    "timezone": "Africa/Monrovia",
+    "code": "LR",
+    "currency": "LRD"
+  },
+  "libya": {
+    "country_name": "Libya",
+    "language": "Arabic",
+    "locale": "ar_LY",
+    "timezone": "Africa/Tripoli",
+    "code": "LY",
+    "currency": "LYD"
+  },
+  "liechtenstein": {
+    "country_name": "Liechtenstein",
+    "language": "German",
+    "locale": "de_LI",
+    "timezone": "Europe/Vaduz",
+    "code": "LI",
+    "currency": "CHF"
+  },
+  "lithuania": {
+    "country_name": "Lithuania",
+    "language": "Lithuanian",
+    "locale": "lt_LT",
+    "timezone": "Europe/Vilnius",
+    "code": "LT",
+    "currency": "EUR"
+  },
+  "luxembourg": {
+    "country_name": "Luxembourg",
+    "language": "Luxembourgish, French, German",
+    "locale": "lb_LU",
+    "timezone": "Europe/Luxembourg",
+    "code": "LU",
+    "currency": "EUR"
+  },
+  "madagascar": {
+    "country_name": "Madagascar",
+    "language": "Malagasy, French",
+    "locale": "mg_MG",
+    "timezone": "Indian/Antananarivo",
+    "code": "MG",
+    "currency": "MGA"
+  },
+  "malawi": {
+    "country_name": "Malawi",
+    "language": "Chichewa, English",
+    "locale": "ny_MW",
+    "timezone": "Africa/Blantyre",
+    "code": "MW",
+    "currency": "MWK"
+  },
+  "malaysia": {
+    "country_name": "Malaysia",
+    "language": "Malay",
+    "locale": "ms_MY",
+    "timezone": "Asia/Kuala_Lumpur",
+    "code": "MY",
+    "currency": "MYR"
+  },
+  "maldives": {
+    "country_name": "Maldives",
+    "language": "Maldivian",
+    "locale": "dv_MV",
+    "timezone": "Indian/Maldives",
+    "code": "MV",
+    "currency": "MVR"
+  },
+  "mali": {
+    "country_name": "Mali",
+    "language": "Bambara, French",
+    "locale": "bm_ML",
+    "timezone": "Africa/Bamako",
+    "code": "ML",
+    "currency": "XOF"
+  },
+  "malta": {
+    "country_name": "Malta",
+    "language": "Maltese, English",
+    "locale": "mt_MT",
+    "timezone": "Europe/Valletta",
+    "code": "MT",
+    "currency": "EUR"
+  },
+  "marshall_islands": {
+    "country_name": "Marshall Islands",
+    "language": "Marshallese, English",
+    "locale": "mh_MH",
+    "timezone": "Pacific/Majuro",
+    "code": "MH",
+    "currency": "USD"
+  },
+  "mauritania": {
+    "country_name": "Mauritania",
+    "language": "Arabic, French",
+    "locale": "ar_MR",
+    "timezone": "Africa/Nouakchott",
+    "code": "MR",
+    "currency": "MRU"
+  },
+  "mauritius": {
+    "country_name": "Mauritius",
+    "language": "English, French",
+    "locale": "en_MU",
+    "timezone": "Indian/Mauritius",
+    "code": "MU",
+    "currency": "MUR"
+  },
+  "mexico": {
+    "country_name": "Mexico",
+    "language": "Spanish",
+    "locale": "es_MX",
+    "timezone": "America/Mexico_City",
+    "code": "MX",
+    "currency": "MXN"
+  },
+  "micronesia": {
+    "country_name": "Micronesia",
+    "language": "English, Chuukese, Pohnpeian, Yapese",
+    "locale": "en_FM",
+    "timezone": "Pacific/Chuuk",
+    "code": "FM",
+    "currency": "USD"
+  },
+  "moldova": {
+    "country_name": "Moldova",
+    "language": "Romanian",
+    "locale": "ro_MD",
+    "timezone": "Europe/Chisinau",
+    "code": "MD",
+    "currency": "MDL"
+  },
+  "monaco": {
+    "country_name": "Monaco",
+    "language": "French",
+    "locale": "fr_MC",
+    "timezone": "Europe/Monaco",
+    "code": "MC",
+    "currency": "EUR"
+  },
+  "mongolia": {
+    "country_name": "Mongolia",
+    "language": "Mongolian",
+    "locale": "mn_MN",
+    "timezone": "Asia/Ulaanbaatar",
+    "code": "MN",
+    "currency": "MNT"
+  },
+  "montenegro": {
+    "country_name": "Montenegro",
+    "language": "Montenegrin",
+    "locale": "me_ME",
+    "timezone": "Europe/Belgrade",
+    "code": "ME",
+    "currency": "EUR"
+  },
+  "morocco": {
+    "country_name": "Morocco",
+    "language": "Arabic, Berber",
+    "locale": "ar_MA",
+    "timezone": "Africa/Casablanca",
+    "code": "MA",
+    "currency": "MAD"
+  },
+  "mozambique": {
+    "country_name": "Mozambique",
+    "language": "Portuguese",
+    "locale": "pt_MZ",
+    "timezone": "Africa/Maputo",
+    "code": "MZ",
+    "currency": "MZN"
+  },
+  "myanmar": {
+    "country_name": "Myanmar",
+    "language": "Burmese",
+    "locale": "my_MM",
+    "timezone": "Asia/Yangon",
+    "code": "MM",
+    "currency": "MMK"
+  },
+  "namibia": {
+    "country_name": "Namibia",
+    "language": "English, Afrikaans, German",
+    "locale": "en_NA",
+    "timezone": "Africa/Windhoek",
+    "code": "NA",
+    "currency": "NAD"
+  },
+  "nauru": {
+    "country_name": "Nauru",
+    "language": "Nauruan, English",
+    "locale": "na_NR",
+    "timezone": "Pacific/Nauru",
+    "code": "NR",
+    "currency": "AUD"
+  },
+  "nepal": {
+    "country_name": "Nepal",
+    "language": "Nepali",
+    "locale": "ne_NP",
+    "timezone": "Asia/Kathmandu",
+    "code": "NP",
+    "currency": "NPR"
+  },
+  "netherlands": {
+    "country_name": "Netherlands",
+    "language": "Dutch",
+    "locale": "nl_NL",
+    "timezone": "Europe/Amsterdam",
+    "code": "NL",
+    "currency": "EUR"
+  },
+  "new_zealand": {
+    "country_name": "New Zealand",
+    "language": "English, Māori",
+    "locale": "en_NZ",
+    "timezone": "Pacific/Auckland",
+    "code": "NZ",
+    "currency": "NZD"
+  },
+  "nicaragua": {
+    "country_name": "Nicaragua",
+    "language": "Spanish",
+    "locale": "es_NI",
+    "timezone": "America/Managua",
+    "code": "NI",
+    "currency": "NIO"
+  },
+  "niger": {
+    "country_name": "Niger",
+    "language": "French, Hausa, Djerma",
+    "locale": "fr_NE",
+    "timezone": "Africa/Niamey",
+    "code": "NE",
+    "currency": "XOF"
+  },
+  "nigeria": {
+    "country_name": "Nigeria",
+    "language": "English",
+    "locale": "en_NG",
+    "timezone": "Africa/Lagos",
+    "code": "NG",
+    "currency": "NGN"
+  },
+  "north_macedonia": {
+    "country_name": "North Macedonia",
+    "language": "Macedonian",
+    "locale": "mk_MK",
+    "timezone": "Europe/Skopje",
+    "code": "MK",
+    "currency": "MKD"
+  },
+  "norway": {
+    "country_name": "Norway",
+    "language": "Norwegian",
+    "locale": "no_NO",
+    "timezone": "Europe/Oslo",
+    "code": "NO",
+    "currency": "NOK"
+  },
+  "oman": {
+    "country_name": "Oman",
+    "language": "Arabic",
+    "locale": "ar_OM",
+    "timezone": "Asia/Muscat",
+    "code": "OM",
+    "currency": "OMR"
+  },
+  "pakistan": {
+    "country_name": "Pakistan",
+    "language": "Urdu, English",
+    "locale": "ur_PK",
+    "timezone": "Asia/Karachi",
+    "code": "PK",
+    "currency": "PKR"
+  },
+  "palau": {
+    "country_name": "Palau",
+    "language": "Palauan, English",
+    "locale": "en_PW",
+    "timezone": "Pacific/Palau",
+    "code": "PW",
+    "currency": "USD"
+  },
+  "palestine": {
+    "country_name": "Palestine",
+    "language": "Arabic",
+    "locale": "ar-PS",
+    "timezone": "Asia/Gaza",
+    "code": "PS",
+    "currency": "ILS"
+  },
+  "panama": {
+    "country_name": "Panama",
+    "language": "Spanish",
+    "locale": "es_PA",
+    "timezone": "America/Panama",
+    "code": "PA",
+    "currency": "PAB"
+  },
+  "papua_new_guinea": {
+    "country_name": "Papua New Guinea",
+    "language": "English, Hiri Motu, Tok Pisin",
+    "locale": "en_PG",
+    "timezone": "Pacific/Port_Moresby",
+    "code": "PG",
+    "currency": "PGK"
+  },
+  "paraguay": {
+    "country_name": "Paraguay",
+    "language": "Spanish, Guarani",
+    "locale": "es_PY",
+    "timezone": "America/Asuncion",
+    "code": "PY",
+    "currency": "PYG"
+  },
+  "peru": {
+    "country_name": "Peru",
+    "language": "Spanish, Quechua, Aymara",
+    "locale": "es_PE",
+    "timezone": "America/Lima",
+    "code": "PE",
+    "currency": "PEN"
+  },
+  "philippines": {
+    "country_name": "Philippines",
+    "language": "Filipino, English",
+    "locale": "en_PH",
+    "timezone": "Asia/Manila",
+    "code": "PH",
+    "currency": "PHP"
+  },
+  "poland": {
+    "country_name": "Poland",
+    "language": "Polish",
+    "locale": "pl_PL",
+    "timezone": "Europe/Warsaw",
+    "code": "PL",
+    "currency": "PLN"
+  },
+  "portugal": {
+    "country_name": "Portugal",
+    "language": "Portuguese",
+    "locale": "pt_PT",
+    "timezone": "Europe/Lisbon",
+    "code": "PT",
+    "currency": "EUR"
+  },
+  "qatar": {
+    "country_name": "Qatar",
+    "language": "Arabic, English",
+    "locale": "ar_QA",
+    "timezone": "Asia/Qatar",
+    "code": "QA",
+    "currency": "QAR"
+  },
+  "romania": {
+    "country_name": "Romania",
+    "language": "Romanian",
+    "locale": "ro_RO",
+    "timezone": "Europe/Bucharest",
+    "code": "RO",
+    "currency": "RON"
+  },
+  "russia": {
+    "country_name": "Russia",
+    "language": "Russian",
+    "locale": "ru_RU",
+    "timezone": "Europe/Moscow",
+    "code": "RU",
+    "currency": "RUB"
+  },
+  "rwanda": {
+    "country_name": "Rwanda",
+    "language": "Kinyarwanda, French, English",
+    "locale": "rw_RW",
+    "timezone": "Africa/Kigali",
+    "code": "RW",
+    "currency": "RWF"
+  },
+  "saint_kitts_and_nevis": {
+    "country_name": "Saint Kitts and Nevis",
+    "language": "English",
+    "locale": "en_KN",
+    "timezone": "America/St_Kitts",
+    "code": "KN",
+    "currency": "XCD"
+  },
+  "saint_lucia": {
+    "country_name": "Saint Lucia",
+    "language": "English",
+    "locale": "en_LC",
+    "timezone": "America/St_Lucia",
+    "code": "LC",
+    "currency": "XCD"
+  },
+  "saint_vincent_and_the_grenadines": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "language": "English",
+    "locale": "en_VC",
+    "timezone": "America/St_Vincent",
+    "code": "VC",
+    "currency": "XCD"
+  },
+  "samoa": {
+    "country_name": "Samoa",
+    "language": "Samoan, English",
+    "locale": "sm_WS",
+    "timezone": "Pacific/Apia",
+    "code": "WS",
+    "currency": "WST"
+  },
+  "san_marino": {
+    "country_name": "San Marino",
+    "language": "Italian",
+    "locale": "it_SM",
+    "timezone": "Europe/San_Marino",
+    "code": "SM",
+    "currency": "EUR"
+  },
+  "sao_tome_and_principe": {
+    "country_name": "São Tomé and Príncipe",
+    "language": "Portuguese",
+    "locale": "pt_ST",
+    "timezone": "Africa/Sao_Tome",
+    "code": "ST",
+    "currency": "STN"
+  },
+  "saudi_arabia": {
+    "country_name": "Saudi Arabia",
+    "language": "Arabic",
+    "locale": "ar_SA",
+    "timezone": "Asia/Riyadh",
+    "code": "SA",
+    "currency": "SAR"
+  },
+  "senegal": {
+    "country_name": "Senegal",
+    "language": "French, Wolof",
+    "locale": "fr_SN",
+    "timezone": "Africa/Dakar",
+    "code": "SN",
+    "currency": "XOF"
+  },
+  "serbia": {
+    "country_name": "Serbia",
+    "language": "Serbian",
+    "locale": "sr_RS",
+    "timezone": "Europe/Belgrade",
+    "code": "RS",
+    "currency": "RSD"
+  },
+  "singapore": {
+    "country_name": "Singapore",
+    "language": "English, Malay, Mandarin, Tamil",
+    "locale": "en_SG",
+    "timezone": "Asia/Singapore",
+    "code": "SG",
+    "currency": "SGD"
+  },
+  "slovakia": {
+    "country_name": "Slovakia",
+    "language": "Slovak",
+    "locale": "sk_SK",
+    "timezone": "Europe/Bratislava",
+    "code": "SK",
+    "currency": "EUR"
+  },
+  "slovenia": {
+    "country_name": "Slovenia",
+    "language": "Slovene",
+    "locale": "sl_SI",
+    "timezone": "Europe/Ljubljana",
+    "code": "SI",
+    "currency": "EUR"
+  },
+  "solomon_islands": {
+    "country_name": "Solomon Islands",
+    "language": "English",
+    "locale": "en_SB",
+    "timezone": "Pacific/Guadalcanal",
+    "code": "SB",
+    "currency": "AUD"
+  },
+  "somalia": {
+    "country_name": "Somalia",
+    "language": "Somali, Arabic",
+    "locale": "so_SO",
+    "timezone": "Africa/Mogadishu",
+    "code": "SO",
+    "currency": "SOS"
+  },
+  "somaliland": {
+    "country_name": "Somaliland",
+    "language": "Somali, Arabic",
+    "locale": "so-SO",
+    "timezone": "Africa/Mogadishu",
+    "code": "SO",
+    "currency": "SLSH"
+  },
+  "south_africa": {
+    "country_name": "South Africa",
+    "language": "Afrikaans, English, isiNdebele, isiXhosa, isiZulu, sesotho, Setswana, siSwati, Tshivenda, Xitsonga",
+    "locale": "en_ZA",
+    "timezone": "Africa/Johannesburg",
+    "code": "ZA",
+    "currency": "ZAR"
+  },
+  "south_korea": {
+    "country_name": "South Korea",
+    "language": "Korean",
+    "locale": "ko_KR",
+    "timezone": "Asia/Seoul",
+    "code": "KR",
+    "currency": "KRW"
+  },
+  "south_sudan": {
+    "country_name": "South Sudan",
+    "language": "English",
+    "locale": "en_SS",
+    "timezone": "Africa/Juba",
+    "code": "SS",
+    "currency": "SSP"
+  },
+  "spain": {
+    "country_name": "Spain",
+    "language": "Spanish, Catalan, Galician, Basque",
+    "locale": "es_ES",
+    "timezone": "Europe/Madrid",
+    "code": "ES",
+    "currency": "EUR"
+  },
+  "sri_lanka": {
+    "country_name": "Sri Lanka",
+    "language": "Sinhala, Tamil",
+    "locale": "si_LK",
+    "timezone": "Asia/Colombo",
+    "code": "LK",
+    "currency": "LKR"
+  },
+  "sudan": {
+    "country_name": "Sudan",
+    "language": "Arabic, English",
+    "locale": "ar_SD",
+    "timezone": "Africa/Khartoum",
+    "code": "SD",
+    "currency": "SDG"
+  },
+  "suriname": {
+    "country_name": "Suriname",
+    "language": "Dutch, English, Sranan Tongo",
+    "locale": "nl_SR",
+    "timezone": "America/Paramaribo",
+    "code": "SR",
+    "currency": "SRD"
+  },
+  "sweden": {
+    "country_name": "Sweden",
+    "language": "Swedish",
+    "locale": "sv_SE",
+    "timezone": "Europe/Stockholm",
+    "code": "SE",
+    "currency": "SEK"
+  },
+  "switzerland": {
+    "country_name": "Switzerland",
+    "language": "German, French, Italian, Romansh",
+    "locale": "de_CH",
+    "timezone": "Europe/Zurich",
+    "code": "CH",
+    "currency": "CHF"
+  },
+  "syria": {
+    "country_name": "Syria",
+    "language": "Arabic",
+    "locale": "ar_SY",
+    "timezone": "Asia/Damascus",
+    "code": "SY",
+    "currency": "SYP"
+  },
+  "taiwan": {
+    "country_name": "Taiwan",
+    "language": "Mandarin",
+    "locale": "zh_TW",
+    "timezone": "Asia/Taipei",
+    "code": "TW",
+    "currency": "TWD"
+  },
+  "tanzania": {
+    "country_name": "Tanzania",
+    "language": "Swahili, English",
+    "locale": "sw_TZ",
+    "timezone": "Africa/Dar_es_Salaam",
+    "code": "TZ",
+    "currency": "TZS"
+  },
+  "thailand": {
+    "country_name": "Thailand",
+    "language": "Thai",
+    "locale": "th_TH",
+    "timezone": "Asia/Bangkok",
+    "code": "TH",
+    "currency": "THB"
+  },
+  "togo": {
+    "country_name": "Togo",
+    "language": "French, Ewe, Kabiyé",
+    "locale": "fr_TG",
+    "timezone": "Africa/Lomé",
+    "code": "TG",
+    "currency": "XOF"
+  },
+  "trinidad_and_tobago": {
+    "country_name": "Trinidad and Tobago",
+    "language": "English",
+    "locale": "en_TT",
+    "timezone": "America/Port_of_Spain",
+    "code": "TT",
+    "currency": "TTD"
+  },
+  "tunisia": {
+    "country_name": "Tunisia",
+    "language": "Arabic, French",
+    "locale": "ar_TN",
+    "timezone": "Africa/Tunis",
+    "code": "TN",
+    "currency": "TND"
+  },
+  "turkey": {
+    "country_name": "Turkey",
+    "language": "Turkish",
+    "locale": "tr_TR",
+    "timezone": "Europe/Istanbul",
+    "code": "TR",
+    "currency": "TRY"
+  },
+  "turkmenistan": {
+    "country_name": "Turkmenistan",
+    "language": "Turkmen",
+    "locale": "tk_TM",
+    "timezone": "Asia/Ashgabat",
+    "code": "TM",
+    "currency": "TMT"
+  },
+  "tuvalu": {
+    "country_name": "Tuvalu",
+    "language": "Tuvaluan, English",
+    "locale": "tv_TV",
+    "timezone": "Pacific/Funafuti",
+    "code": "TV",
+    "currency": "AUD"
+  },
+  "uganda": {
+    "country_name": "Uganda",
+    "language": "English, Swahili",
+    "locale": "en_UG",
+    "timezone": "Africa/Kampala",
+    "code": "UG",
+    "currency": "UGX"
+  },
+  "ukraine": {
+    "country_name": "Ukraine",
+    "language": "Ukrainian",
+    "locale": "uk_UA",
+    "timezone": "Europe/Kiev",
+    "code": "UA",
+    "currency": "UAH"
+  },
+  "united_arab_emirates": {
+    "country_name": "United Arab Emirates",
+    "language": "Arabic, English",
+    "locale": "ar_AE",
+    "timezone": "Asia/Dubai",
+    "code": "AE",
+    "currency": "AED"
+  },
+  "united_kingdom": {
+    "country_name": "United Kingdom",
+    "language": "English",
+    "locale": "en_GB",
+    "timezone": "Europe/London",
+    "code": "GB",
+    "currency": "GBP"
+  },
+  "united_states": {
+    "country_name": "United States",
+    "language": "English",
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "code": "US",
+    "currency": "USD"
+  },
+  "uruguay": {
+    "country_name": "Uruguay",
+    "language": "Spanish, Portuguese",
+    "locale": "es_UY",
+    "timezone": "America/Montevideo",
+    "code": "UY",
+    "currency": "UYU"
+  },
+  "uzbekistan": {
+    "country_name": "Uzbekistan",
+    "language": "Uzbek",
+    "locale": "uz_UZ",
+    "timezone": "Asia/Tashkent",
+    "code": "UZ",
+    "currency": "UZS"
+  },
+  "vanuatu": {
+    "country_name": "Vanuatu",
+    "language": "Bislama, English, French",
+    "locale": "bi_VU",
+    "timezone": "Pacific/Efate",
+    "code": "VU",
+    "currency": "VUV"
+  },
+  "vatican_city": {
+    "country_name": "Vatican City",
+    "language": "Italian, Latin",
+    "locale": "it-VA",
+    "timezone": "Europe/Vatican",
+    "code": "VA",
+    "currency": "EUR"
+  },
+  "venezuela": {
+    "country_name": "Venezuela",
+    "language": "Spanish",
+    "locale": "es_VE",
+    "timezone": "America/Caracas",
+    "code": "VE",
+    "currency": "VES"
+  },
+  "vietnam": {
+    "country_name": "Vietnam",
+    "language": "Vietnamese",
+    "locale": "vi_VN",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "code": "VN",
+    "currency": "VND"
+  },
+  "western_sahara": {
+    "country_name": "Western Sahara",
+    "language": "Arabic, Spanish",
+    "locale": "ar-EH",
+    "timezone": "Africa/El_Aaiun",
+    "code": "EH",
+    "currency": "MAD, DZD, MRO"
+  },
+  "yemen": {
+    "country_name": "Yemen",
+    "language": "Arabic",
+    "locale": "ar_YE",
+    "timezone": "Asia/Aden",
+    "code": "YE",
+    "currency": "YER"
+  },
+  "zambia": {
+    "country_name": "Zambia",
+    "language": "English",
+    "locale": "en_ZM",
+    "timezone": "Africa/Lusaka",
+    "code": "ZM",
+    "currency": "ZMW"
+  },
+  "zimbabwe": {
+    "country_name": "Zimbabwe",
+    "language": "English, Shona, Sindebele",
+    "locale": "en_ZW",
+    "timezone": "Africa/Harare",
+    "code": "ZW",
+    "currency": "ZWL"
+  }
+}
